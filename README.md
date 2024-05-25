@@ -1,4 +1,4 @@
-EasyGUI-Gradio-RVC Project
+# EasyGUI-Gradio-RVC Project
 
 This project provides an easy-to-use interface for voice conversion using various pre-trained models. The setup script automates the installation of required packages and downloads necessary files, allowing for quick and seamless setup.
 Table of Contents
